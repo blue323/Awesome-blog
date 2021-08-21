@@ -1,0 +1,56 @@
+body {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 48px;
+    margin-top: 0;
+    margin-bottom: 45px;
+    padding-top: 45px;
+    color: #2E7AD3;
+}
+
+.background {
+    background: #F1F1F1;
+    padding: 0px 25px;
+}
+
+h2 {
+    font-size: 32px;
+    padding-top: 15px;
+    margin-bottom: 10px;
+    color: #104C90;
+}
+
+img {
+    margin-bottom: 25px;
+}
+
+p {
+    font-size: 16px;
+    margin-bottom: 9px;
+}
+
+#last-item {
+    margin-bottom: 0;
+    padding-bottom: 25px;
+}
+
+.text-color {
+    color: #FF8000;
+    font-weight: bold;
+}
+
+.text-color:focus {
+    color: blue;
+}
+
+.text-color:hover {
+    color: firebrick;
+}
+
+.text-color:active {
+    color: red;
+}
